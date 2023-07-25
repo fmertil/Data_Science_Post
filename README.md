@@ -19,4 +19,5 @@ The loan approval dataset is a collection of financial records and associated in
     luxury_assets_value: The value of the applicant's luxury assets.
     bank_asset_value: The value of the applicant's assets held in banks.
     loan_status: The status of the loan application (Approved / Rejected).
+    
 
