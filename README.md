@@ -3,6 +3,8 @@
 The loan approval dataset is a collection of financial records and associated information used to determine the eligibility of individuals or organizations for obtaining loans from a lending institution. it contains serveral parameters such as cibil score, income, employment status, loan term, loan amount, assets value, and loan status.
 
 
+Many libraries have been used  such as matplotlib, seaborn, pandas, and scikit-learn for data visualization, data preprocessing, and model training. 
+
 
 # Dataset Description
 
@@ -21,3 +23,4 @@ The loan approval dataset is a collection of financial records and associated in
     loan_status: The status of the loan application (Approved / Rejected).
     
 
+The goal is to predict loan approval status using different classifiers and evaluate their performance using accuracy and classification reports
