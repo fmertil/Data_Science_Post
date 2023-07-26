@@ -33,3 +33,11 @@ Using this dataset we try to answer to get some insigth
  Income alone cannot predict loan approval. The median income of approved loans seems to be slightly higher than the median income of rejected loans.
 
 The goal is to predict loan approval status using different classifiers and evaluate their performance using accuracy and classification reports
+
+# Summary of the result 
+https://medium.com/@francoismertil/exploring-loan-approval-predictions-cd89b81176fe
+
+
+# Acknowledgements
+This data has been downloaded from Kaggle
+https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset
